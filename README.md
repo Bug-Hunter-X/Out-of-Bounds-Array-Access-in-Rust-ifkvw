@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common runtime error: an out-of-bounds array access. The `bug.rs` file shows the erroneous code, while `bugSolution.rs` provides a corrected version that handles potential out-of-bounds errors gracefully.  The error is a panic at runtime. This example highlights the importance of robust error handling in Rust.
